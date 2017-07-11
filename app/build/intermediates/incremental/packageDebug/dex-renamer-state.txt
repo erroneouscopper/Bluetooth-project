@@ -1,0 +1,7 @@
+#Mon Jul 10 20:23:30 CDT 2017
+base.0=/Users/Home/Desktop/Bluetooth-Communication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ac67d45d79a3e50adbb06b21f86697f8743ad75
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Home/Desktop/Bluetooth-Communication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5261af9134d8d8d8e4e24157b573d2731b5ca7c4/classes.dex
+base.1=/Users/Home/Desktop/Bluetooth-Communication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5261af9134d8d8d8e4e24157b573d2731b5ca7c4
+file.0=/Users/Home/Desktop/Bluetooth-Communication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ac67d45d79a3e50adbb06b21f86697f8743ad75/classes.dex
