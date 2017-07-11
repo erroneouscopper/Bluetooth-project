@@ -1,3 +1,8 @@
+// Name: Md Ibrahim Khalil (UTA ID: 1000988547)
+// Name: Jonathan kortu (UTA ID: 1001058128)
+//
+//
+
 package com.example.user.bluetooth_communication;
 
 import android.Manifest;
